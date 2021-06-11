@@ -12,7 +12,7 @@
     "service-worker.js": "/service-worker.js",
     "static/css/main.83a3560a.chunk.css.map": "/static/css/main.83a3560a.chunk.css.map",
     "static/js/2.f96c4dc1.chunk.js.LICENSE.txt": "/static/js/2.f96c4dc1.chunk.js.LICENSE.txt",
-    "static/media/global.css": "/static/media/tumri2.87fe06b6.gif"
+    "static/media/global.css": "https://dijets.io/tumri2.87fe06b6.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.c7bad3dc.js",
