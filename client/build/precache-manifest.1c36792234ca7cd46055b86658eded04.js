@@ -33,6 +33,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "87fe06b6369394012b81ed06c2793eed",
-    "url": "/static/media/tumri2.87fe06b6.gif"
+    "url": "https://dijets.io/tumri2.87fe06b6.gif"
   }
 ]);
