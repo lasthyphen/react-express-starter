@@ -1,0 +1,9 @@
+{
+  "title": "Buy Dijets - Checkout",
+  "headline": "The Digital Currency for Industry 4.0",
+  "subline": "Enter the amount of Dijets you wish to purchase",
+  "sr-legal-text": "Number of tokens (max 5000)",
+  "button": {
+    "submit": "Buy for {{total}}"
+  }
+}
